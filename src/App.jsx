@@ -23,7 +23,7 @@ const orders = [
     id: "ORD-103",
     customer: "Sunita Pariyar",
     items: [
-      { name: "Onesie - 3-6M", qty: 1, price: 599 },
+      { name: "Onesie - 3-6M", qty: 1, price: 699 },
       { name: "Cap Set", qty: 2, price: 349 },
     ],
     status: "Cancelled",
